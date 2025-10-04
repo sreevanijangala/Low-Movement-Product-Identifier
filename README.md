@@ -1,4 +1,4 @@
-📦 Low Movement Product Identifier
+📦 LOW MOVEMENT PRODUCT IDENTIFIER PROJECT
 
 This project identifies low-selling or slow-moving products from electronic sales data.
 It helps businesses understand which items have poor sales performance, so they can plan discounts, promotions, or stock reductions.
